@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Olá, eu sou Cayo Teixeira
 
-<!--
-**cayoo0/cayoo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## 🚀 Estudando Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+- 💻 Desenvolvedor Front-End em aprendizado
+- 📚 Estudando HTML, CSS e JavaScript
+- 🚀 Criando projetos e aprendendo na prática
+- 🎯 Evoluindo todos os dias
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=cayoo0&show_icons=true&theme=tokyonight" 
+height="165"
+/>
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cayoo0&layout=compact&theme=tokyonight" 
+height="165"
+/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img 
+src="https://streak-stats.demolab.com/?user=cayoo0&theme=tokyonight" 
+/>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## 🌐 Meu GitHub
+
+<div align="center">
+
+<a href="https://github.com/cayoo0">
+<img src="https://img.shields.io/badge/GitHub-cayoo0-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
