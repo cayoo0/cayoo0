@@ -4,7 +4,7 @@
 
 ## 🚀 Futuro Dev Full-Stack
 
-<img src="https://skillicons.dev/icons?i=html,js,ts,tailwind,laravel,php" />
+<img src="https://skillicons.dev/icons?i=html,js,react,ts,tailwind,php,laravel" />
 
 </div>
 
@@ -53,7 +53,7 @@ src="https://streak-stats.demolab.com/?user=cayoo0&theme=tokyonight"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,js,ts,tailwind,laravel,php" />
+<img src="https://skillicons.dev/icons?i=html,js,react,ts,tailwind,php,laravel" />
 
 </div>
 
