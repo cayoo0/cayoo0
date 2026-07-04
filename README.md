@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🚀 Estudando Front-End
+## 🚀 Futuro Dev Full-Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
@@ -12,8 +12,8 @@
 
 ## 🧠 Sobre mim
 
-- 💻 Desenvolvedor Front-End em aprendizado
-- 📚 Estudando HTML, CSS e JavaScript
+- 💻 Desenvolvedor em aprendizado
+- 📚 Estudando JavaScript e seus Frameworks
 - 🚀 Criando projetos e aprendendo na prática
 - 🎯 Evoluindo todos os dias
 
